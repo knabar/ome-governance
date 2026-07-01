@@ -1,10 +1,9 @@
-# **OME [Subproject Name] — Roster**
+# **OME OMERO.web — Roster**
 
 ## **1. Overview**
 
-The OME [Subproject Name] is a recognized part of the OME ecosystem,
-responsible for \[brief description of scope: e.g. specification development,
-software libraries, infrastructure, etc.\].
+The OME OMERO.web is a recognized part of the OME ecosystem,
+responsible for providing a web-based client and plugin infrastructure.
 
 This document records the current roster of individuals contributing to and
 maintaining the project, along with their roles and responsibilities.
@@ -15,13 +14,15 @@ mission.
 
 ## **2. Scope of the Project**
 
-- **Primary focus:** [1–2 lines]
+- **Primary focus:** OMERO.web provides a web-based client, plugin infrastructure, 
+    certain plugins, and corresponding Docker images.
 - **Key responsibilities:**
-  - [Responsibility 1]
-  - [Responsibility 2]
-  - [Responsibility 3]
-- **Out of scope (if needed):**
-  - [Clarify boundaries to avoid ambiguity]
+  - Provide user and data management functionality through a web-based client
+  - Maintain a consistent plugin infrastructure
+  - Develop and maintain certain plugins
+  - Maintaining corresponding Docker images, examples, and/or documentation
+- **Out of scope:**
+  - Support or maintenance of third-party or legacy plugins
 
 ## **3. Roles and Responsibilities**
 
@@ -43,9 +44,15 @@ This role is often an entry point for deeper involvement in project maintenance.
 
 **Current Triage Members:**
 
-- Name (Affiliation)
-
-- Name (Affiliation)
+- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
+- [Kyle Balis-West (Glencoe Software)](https://github.com/kyleBalisWest)
+- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
+- [Marc Bruce (Glencoe Software)](https://github.com/mabruce)
+- [Erin Diel (Glencoe Software)](https://github.com/erindiel)
+- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
+- [Kevin Koslowski (Glencoe Software)](https://github.com/kkoz)
+- [Melissa Linkert (Glencoe Software)](https://github.com/melissalinkert)
+- [Emil Rozbicki (Glencoe Software)](https://github.com/emilroz)
 
   ### **3.2 Core Dev (commit rights)**
 
@@ -59,9 +66,16 @@ This role reflects consistent contribution and familiarity with project practice
 
 **Current Write Members:**
 
-- Name (Affiliation)
+- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
+- [Kyle Balis-West (Glencoe Software)](https://github.com/kyleBalisWest)
+- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
+- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
+- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
+- [Dominik Lindner (University of Dundee)](https://github.com/dominikl)
+- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
+- [Will Moore (University of Dundee)](https://github.com/will-moore)
+- [Petr Walczysko (University of Dundee)](https://github.com/pwalczysko)
 
-- ## Name (Affiliation)
 
   ### **3.3 Maintainer**
 
@@ -78,9 +92,13 @@ sustained engagement and stewardship of the project.
 
 **Current Maintainers:**
 
-- Name (Affiliation)
-
-- ## Name (Affiliation)
+- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
+- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
+- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
+- [Dominik Lindner (University of Dundee)](https://github.com/dominikl)
+- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
+- [Will Moore (University of Dundee)](https://github.com/will-moore)
+- [Petr Walczysko (University of Dundee)](https://github.com/pwalczysko)
 
   ### **3.4 Admin**
 
@@ -103,9 +121,13 @@ should be documented by the project and reflected in its roster.
 
 **Current Admins:**
 
-- Name (Affiliation)
-- Name (Affiliation)
--
+- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
+- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
+- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
+- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
+- [Melissa Linkert (Glencoe Software)](https://github.com/melissalinkert)
+- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
+- [Will Moore (University of Dundee)](https://github.com/will-moore)
 
 ## **4. Membership Expectations**
 
@@ -136,7 +158,7 @@ Maintainers are responsible for ensuring that decisions are made in a timely and
 
 ## **6. Relationship to OME Governance**
 
-The OME [Subproject Name] operates as an OME Recognized Project (ORP) and aligns with the broader governance framework.
+The OME OMERO.web operates as an OME Recognized Project (ORP) and aligns with the broader governance framework.
 
 - The project contributes to and is supported by the OME ecosystem
 - Coordination with the OMG occurs as needed
@@ -151,9 +173,9 @@ This roster is maintained by the project Maintainers and updated as needed to re
 - Project evolution
 
 | Version history |                                     |
-| :-------------- | :---------------------------------- |
+|:----------------|:------------------------------------|
 | Date            | Description                         |
 | April 2026      | Original template draft             |
 | June 2026       | Refinement of template after review |
-|                 |                                     |
+| July 2026       | Original OMERO.web draft            |
 |                 |                                     |
