@@ -31,55 +31,31 @@ reflect increasing levels of responsibility and trust. Assignment of roles is
 based on **sustained and substantial contributions**, as well as demonstrated
 reliability in supporting the project.
 
-### **3.1 Steward (triage rights)**
+  ### **3.1 Core Dev**
 
-Individuals with the *Triage* role support the organization and flow of
-contributions by:
+Individuals with *Triage* access actively contribute to the codebase and project materials by:
 
 - Reviewing and labeling issues and pull requests
 - Helping prioritize work and identify duplicates
 - Assisting contributors with initial feedback and guidance
-
-This role is often an entry point for deeper involvement in project maintenance.
-
-**Current Triage Members:**
-
-- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
-- [Kyle Balis-West (Glencoe Software)](https://github.com/kyleBalisWest)
-- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
-- [Marc Bruce (Glencoe Software)](https://github.com/mabruce)
-- [Erin Diel (Glencoe Software)](https://github.com/erindiel)
-- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
-- [Kevin Koslowski (Glencoe Software)](https://github.com/kkoz)
-- [Melissa Linkert (Glencoe Software)](https://github.com/melissalinkert)
-- [Emil Rozbicki (Glencoe Software)](https://github.com/emilroz)
-
-  ### **3.2 Core Dev (commit rights)**
-
-Individuals with *Write* access actively contribute to the codebase and project materials by:
-
 - Submitting and updating pull requests
 - Contributing code, documentation, or specifications
 - Collaborating with maintainers on implementation details
 
 This role reflects consistent contribution and familiarity with project practices.
 
-**Current Write Members:**
+**Current Triage Members:**
 
-- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
 - [Kyle Balis-West (Glencoe Software)](https://github.com/kyleBalisWest)
-- [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
-- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
-- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
+- [Tom Boissonnet (German BioImaging)](https://github.com/Tom-TBT)
 - [Dominik Lindner (University of Dundee)](https://github.com/dominikl)
-- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
+- [Tiago Lubiana (German BioImaging)](https://github.com/lubianat)
 - [Will Moore (University of Dundee)](https://github.com/will-moore)
 - [Petr Walczysko (University of Dundee)](https://github.com/pwalczysko)
 
+  ### **3.2 Maintainer**
 
-  ### **3.3 Maintainer**
-
-Individuals with the *Maintain* role are responsible for the ongoing
+Individuals with the *Write*/*Maintain* role are responsible for the ongoing
 development and direction of the project. This includes:
 
 - Reviewing and merging pull requests
@@ -92,15 +68,10 @@ sustained engagement and stewardship of the project.
 
 **Current Maintainers:**
 
-- [Chris Allan (Glencoe Software)](https://github.com/chris-allan)
 - [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
-- [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
-- [Dominik Lindner (University of Dundee)](https://github.com/dominikl)
-- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
-- [Will Moore (University of Dundee)](https://github.com/will-moore)
-- [Petr Walczysko (University of Dundee)](https://github.com/pwalczysko)
+- [Andreas Knab (Glencoe Software)](https://github.com/knabar)
 
-  ### **3.4 Admin**
+  ### **3.3 Admin**
 
 Administrative authority should reflect responsibility for the long-term
 success and sustainability of the project. Individuals with *Admin* access
@@ -125,9 +96,6 @@ should be documented by the project and reflected in its roster.
 - [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
 - [Jean-Marie Burel (University of Dundee)](https://github.com/jburel)
 - [Andreas Knab (Glencoe Software)](https://github.com/knabar)
-- [Melissa Linkert (Glencoe Software)](https://github.com/melissalinkert)
-- [Josh Moore (German BioImaging/Image Coop)](https://github.com/joshmoore)
-- [Will Moore (University of Dundee)](https://github.com/will-moore)
 
 ## **4. Membership Expectations**
 
