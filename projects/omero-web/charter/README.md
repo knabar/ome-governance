@@ -1,4 +1,10 @@
-# Charter for an OME Registered Project (ORP)
+---
+title: OMERO.web charter
+permalink: /governance/projects/omero-web/charter/
+description: Charter for OME OMERO.web
+---
+
+# Charter for OMERO.web
 
 ## **Overview**
 

@@ -1,3 +1,9 @@
+---
+title: OMERO.web roster
+permalink: /governance/projects/omero-web/roster/
+description: Roster for OME OMERO.web
+---
+
 # **OME OMERO.web — Roster**
 
 ## **1. Overview**
